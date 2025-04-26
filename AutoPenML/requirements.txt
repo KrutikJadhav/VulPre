@@ -1,4 +1,4 @@
+Flask
+python-nmap
 scikit-learn
 pandas
-python-nmap
-Flask
