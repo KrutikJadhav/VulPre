@@ -1,0 +1,9 @@
+open_ports_count,common_ports_open,os_type,vulnerable
+3,1,Linux,1
+5,0,Windows,0
+8,1,Linux,1
+2,1,Mac OS X,0
+6,0,Windows,0
+1,1,FreeBSD,1
+4,0,Linux,1
+7,0,Unknown,0
